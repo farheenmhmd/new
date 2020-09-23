@@ -5,6 +5,9 @@ body{
 .blue{
 color: blue;
 }
+#yellow{
+color: yellow;
+}
 #left{
 float: left;
 }
