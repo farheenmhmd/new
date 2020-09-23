@@ -1,0 +1,13 @@
+body{
+      color: red;
+      font-align: centre;
+}
+.blue{
+color: blue;
+}
+#left{
+float: left;
+}
+#right{
+float: right;
+}
