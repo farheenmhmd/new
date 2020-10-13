@@ -1,0 +1,8 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+#bgi{
+    background-image: url("images/ind.png");
+    padding: 100px;
+}
